@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nishchitha N R  
 
-💻 2nd-year Computer Science Engineering student at PES College of Engineering, Mandya.  
+💻 3rd-year Computer Science Engineering student at PES College of Engineering, Mandya.  
 🌱 Currently exploring **Web Development, Game Development, and Embedded Systems (AVR Assembly)**.  
 🚀 Passionate about **building real-world projects** and contributing to **tech communities**.  
 
